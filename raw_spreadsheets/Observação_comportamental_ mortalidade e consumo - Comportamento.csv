@@ -1,0 +1,358 @@
+Tratamento,REP,Comportamento,Tempo,Observador,Tempo_segundos,Comportamento_2,Tempo_vagner,Tempo_segundos_vagner
+DEL,REP_1,Repouso,,tef,0,Repouso,,
+DEL,REP_1,Exploracao,1:09:00,tef,69,Exploracao,,
+DEL,REP_1,Tentativa_voo,0:24:00,tef,24,Tentativa_voo,00:00:00,0
+DEL,REP_1,Limpeza,,tef,0,Limpeza,00:11:00,11
+DEL,REP_1,Movimento_circular,1:54:00,tef,114,Movimento_circular,,0
+CTR,REP_1,Repouso,,tef,0,Repouso,,0
+CTR,REP_1,Exploracao,4:21:00,tef,261,Exploracao,,0
+CTR,REP_1,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+CTR,REP_1,Limpeza,,tef,0,Limpeza,00:02:00,2
+CTR,REP_1,Movimento_circular,,tef,0,Movimento_circular,,0
+CTR,REP_1,Observação,Limpeza em movimento,tef,#VALUE!,Observação,,0
+COM,REP_1,Repouso,,tef,0,Repouso,,0
+COM,REP_1,Exploracao,2:13:00,tef,133,Exploracao,,0
+COM,REP_1,Tentativa_voo,0:01:00,tef,1,Tentativa_voo,0:46:00,46
+COM,REP_1,Limpeza,0:14:00,tef,14,Limpeza,01:07:00,67
+COM,REP_1,Movimento_circular,,tef,0,Movimento_circular,,0
+COM,REP_1,Observação,,tef,0,Observação,,0
+IMI,REP_1,Repouso,0:51:00,tef,51,Repouso,,0
+IMI,REP_1,Exploracao,1:16:00,tef,76,Exploracao,,0
+IMI,REP_1,Tentativa_voo,0:10:00,tef,10,Tentativa_voo,00:00:00,0
+IMI,REP_1,Limpeza,1:16:00,tef,76,Limpeza,02:38:00,158
+IMI,REP_1,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_1,Observação,,tef,0,Observação,,0
+COM,REP_15,Repouso,,vagner,0,Repouso,,0
+COM,REP_15,Exploracao,3:23:00,vagner,203,Exploracao,,0
+COM,REP_15,Tentativa_voo,,vagner,0,Tentativa_voo,00:02:00,2
+COM,REP_15,Limpeza,0:12:00,vagner,12,Limpeza,00:30:00,30
+COM,REP_15,Movimento_circular,,vagner,0,Movimento_circular,,0
+COM,REP_15,Observação ,,vagner,0,Observação ,,0
+IMI,REP_15,Repouso,,vagner,0,Repouso,,0
+IMI,REP_15,Exploracao,,vagner,0,Exploracao,,0
+IMI,REP_15,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+IMI,REP_15,Limpeza,0:20:00,vagner,20,Limpeza,00:31:00,31
+IMI,REP_15,Movimento_circular,3:14:00,vagner,194,Movimento_circular,,0
+IMI,REP_15,Observação ,,vagner,0,Observação ,,0
+DEL,REP_15,Repouso,,vagner,0,Repouso,,0
+DEL,REP_15,Exploracao,3:21:00,vagner,201,Exploracao,,0
+DEL,REP_15,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+DEL,REP_15,Limpeza,0:45:00,vagner,45,Limpeza,00:32:00,32
+DEL,REP_15,Movimento_circular,,vagner,0,Movimento_circular,,0
+DEL,REP_15,Observação ,Comportamento anormal de rotação em torno do proprio eixo: Comportamento de limpeza em pequenos intervalos durante o movimento:,vagner,#VALUE!,Observação ,Movimento circular anormal,
+CTR,REP_15,Repouso,0:40:00,vagner,40,Repouso,,0
+CTR,REP_15,Exploracao,2:47:00,vagner,167,Exploracao,,0
+CTR,REP_15,Tentativa_voo,,vagner,0,Tentativa_voo,,0
+CTR,REP_15,Limpeza,1:12:00,vagner,72,Limpeza,NA,
+CTR,REP_15,Movimento_circular,,vagner,0,Movimento_circular,,0
+CTR,REP_15,Observação ,Boa parte do comportamento de limpeza aconteceu em repouso,vagner,#VALUE!,Observação ,Bolinha branca grudada no pé,
+COM,REP_14,Repouso,,vagner,0,Repouso,,0
+COM,REP_14,Exploracao,0:31:00,vagner,31,Exploracao,,0
+COM,REP_14,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+COM,REP_14,Limpeza,0:46:00,vagner,46,Limpeza,00:46:00,46
+COM,REP_14,Movimento_circular,2:29:00,vagner,149,Movimento_circular,,0
+COM,REP_14,Observação ,Comportamento de limpeza segregado,vagner,#VALUE!,Observação ,,0
+IMI,REP_14,Repouso,0:07:00,vagner,7,Repouso,,0
+IMI,REP_14,Exploracao,0:54:00,vagner,54,Exploracao,,0
+IMI,REP_14,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+IMI,REP_14,Limpeza,0:52:00,vagner,52,Limpeza,00:52:00,52
+IMI,REP_14,Movimento_circular,1:57:00,vagner,117,Movimento_circular,,0
+IMI,REP_14,Observação ,Comportamento de limpeza segregado,vagner,#VALUE!,Observação ,,0
+DEL,REP_14,Repouso,,vagner,0,Repouso,,0
+DEL,REP_14,Exploracao,2:00:00,vagner,120,Exploracao,,0
+DEL,REP_14,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+DEL,REP_14,Limpeza,0:23:00,vagner,23,Limpeza,00:23:00,23
+DEL,REP_14,Movimento_circular,,vagner,0,Movimento_circular,,0
+DEL,REP_14,Observação ,Rotação em torno do proprio eixo,vagner,#VALUE!,Observação ,,0
+CTR,REP_14,Repouso,2:10:00,vagner,130,Repouso,,0
+CTR,REP_14,Exploracao,,vagner,0,Exploracao,,0
+CTR,REP_14,Tentativa_voo,2:51:00,vagner,171,Tentativa_voo,2:51:00,171
+CTR,REP_14,Limpeza,0:05:00,vagner,5,Limpeza,0:05:00,5
+CTR,REP_14,Movimento_circular,,vagner,0,Movimento_circular,,0
+CTR,REP_14,Observação ,,vagner,0,Observação ,,0
+CTR,REP_2,Repouso,,tef,0,Repouso,,0
+CTR,REP_2,Exploracao,4:10:00,tef,250,Exploracao,,0
+CTR,REP_2,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+CTR,REP_2,Limpeza,0:02:00,tef,2,Limpeza,00:17:00,17
+CTR,REP_2,Movimento_circular,,tef,0,Movimento_circular,,0
+CTR,REP_2,Observação,,tef,0,Observação,,0
+DEL,REP_2,Repouso,,tef,0,Repouso,,0
+DEL,REP_2,Exploracao,4:11:00,tef,251,Exploracao,,0
+DEL,REP_2,Tentativa_voo,1:00:00,tef,60,Tentativa_voo,00:13:00,13
+DEL,REP_2,Limpeza,,tef,0,Limpeza,00:04:00,4
+DEL,REP_2,Movimento_circular,,tef,0,Movimento_circular,,0
+DEL,REP_2,Observação ,,tef,0,Observação ,,0
+COM,REP_2,Repouso,2:20:00,tef,140,Repouso,,0
+COM,REP_2,Exploracao,1:06:00,tef,66,Exploracao,,0
+COM,REP_2,Tentativa_voo,,tef,0,Tentativa_voo,00:25:00,25
+COM,REP_2,Limpeza,2:58:00,tef,178,Limpeza,03:37:00,217
+COM,REP_2,Movimento_circular,,tef,0,Movimento_circular,,0
+COM,REP_2,Observação,,tef,0,Observação,,0
+IMI,REP_2,Repouso,3:33:00,tef,213,Repouso,,0
+IMI,REP_2,Exploracao,1:28:00,tef,88,Exploracao,,0
+IMI,REP_2,Tentativa_voo,3:58:00,tef,238,Tentativa_voo,03:31:00,211
+IMI,REP_2,Limpeza,,tef,0,Limpeza,01:00:00,60
+IMI,REP_2,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_2,Observação,,tef,0,Observação,,0
+CTR,REP_13,Repouso,,vagner,0,Repouso,,0
+CTR,REP_13,Exploracao,3:03:00,vagner,183,Exploracao,,0
+CTR,REP_13,Tentativa_voo,,vagner,0,Tentativa_voo,00:01:00,1
+CTR,REP_13,Limpeza,,vagner,0,Limpeza,00:02:00,2
+CTR,REP_13,Movimento_circular,2:02:00,vagner,122,Movimento_circular,,0
+CTR,REP_13,Observação ,,vagner,0,Observação ,,0
+DEL,REP_13,Repouso,2:44:00,vagner,164,Repouso,,0
+DEL,REP_13,Exploracao,2:55:00,vagner,175,Exploracao,,0
+DEL,REP_13,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+DEL,REP_13,Limpeza,3:57:00,vagner,237,Limpeza,3:57:00,237
+DEL,REP_13,Movimento_circular,,vagner,0,Movimento_circular,,0
+DEL,REP_13,Observação ,Comportamento de limpeza a maior parte em repouso,vagner,#VALUE!,Observação ,,0
+IMI,REP_13,Repouso,,vagner,0,Repouso,,0
+IMI,REP_13,Exploracao,3:02:00,vagner,182,Exploracao,,0
+IMI,REP_13,Tentativa_voo,,vagner,0,Tentativa_voo,00:01:00,1
+IMI,REP_13,Limpeza,0:30:00,vagner,30,Limpeza,0:30:00,30
+IMI,REP_13,Movimento_circular,2:22:00,vagner,142,Movimento_circular,,0
+IMI,REP_13,Observação ,Comportamento de limpeza segregado,vagner,#VALUE!,Observação ,,0
+COM,REP_13,Repouso,1:03:00,vagner,63,Repouso,,0
+COM,REP_13,Exploracao,3:51:00,vagner,231,Exploracao,,0
+COM,REP_13,Tentativa_voo,0:06:00,vagner,6,Tentativa_voo,0:06:00,6
+COM,REP_13,Limpeza,3:04:00,vagner,184,Limpeza,3:04:00,184
+COM,REP_13,Movimento_circular,,vagner,0,Movimento_circular,,0
+COM,REP_13,Observação ,"Comportamento de limpeza continuo, porém em movimento",vagner,#VALUE!,Observação ,,0
+DEL,REP_3,Repouso,4:00:00,tef,240,Repouso,,0
+DEL,REP_3,Exploracao,,tef,0,Exploracao,,0
+DEL,REP_3,Tentativa_voo,4:00:00,tef,240,Tentativa_voo,04:57:00,297
+DEL,REP_3,Limpeza,,tef,0,Limpeza,00:17:00,17
+DEL,REP_3,Movimento_circular,,tef,0,Movimento_circular,,0
+CTR,REP_3,Repouso,0:54:00,tef,54,Repouso,,0
+CTR,REP_3,Exploracao,1:34:00,tef,94,Exploracao,,0
+CTR,REP_3,Tentativa_voo,1:24:00,tef,84,Tentativa_voo,01:34:00,94
+CTR,REP_3,Limpeza,0:03:00,tef,3,Limpeza,00:08:00,8
+CTR,REP_3,Movimento_circular,1:52:00,tef,112,Movimento_circular,,0
+CTR,REP_3,Observação,,tef,0,Observação,,0
+COM,REP_3,Repouso,0:20:00,tef,20,Repouso,,0
+COM,REP_3,Exploracao,3:57:00,tef,237,Exploracao,,0
+COM,REP_3,Tentativa_voo,1:21:00,tef,81,Tentativa_voo,01:00:00,60
+COM,REP_3,Limpeza,0:09:00,tef,9,Limpeza,00:59:00,59
+COM,REP_3,Movimento_circular,,tef,0,Movimento_circular,,0
+COM,REP_3,Observação,Limpeza se movimentando,tef,#VALUE!,Observação,,0
+IMI,REP_3,Repouso,,tef,0,Repouso,,0
+IMI,REP_3,Exploracao,4:05:00,tef,245,Exploracao,,0
+IMI,REP_3,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+IMI,REP_3,Limpeza,,tef,0,Limpeza,00:29:00,29
+IMI,REP_3,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_3,Observação,,tef,0,Observação,,0
+CTR,REP_12,Repouso,,vagner,0,Repouso,,0
+CTR,REP_12,Exploracao,5:03:00,vagner,303,Exploracao,,0
+CTR,REP_12,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+CTR,REP_12,Limpeza,0:02:00,vagner,2,Limpeza,0:02:00,2
+CTR,REP_12,Movimento_circular,,vagner,0,Movimento_circular,,0
+CTR,REP_12,Observação ,,vagner,0,Observação ,,0
+COM,REP_12,Repouso,0:39:00,vagner,39,Repouso,,0
+COM,REP_12,Exploracao,4:33:00,vagner,273,Exploracao,,0
+COM,REP_12,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+COM,REP_12,Limpeza,1:31:00,vagner,91,Limpeza,1:31:00,91
+COM,REP_12,Movimento_circular,0:05:00,vagner,5,Movimento_circular,,0
+COM,REP_12,Observação ,Limpeza continua em movimento,vagner,#VALUE!,Observação ,,0
+DEL,REP_12,Repouso,,vagner,0,Repouso,,0
+DEL,REP_12,Exploracao,0:58:00,vagner,58,Exploracao,,0
+DEL,REP_12,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+DEL,REP_12,Limpeza,0:14:00,vagner,14,Limpeza,0:14:00,14
+DEL,REP_12,Movimento_circular,4:06:00,vagner,246,Movimento_circular,,0
+DEL,REP_12,Observação ,,vagner,0,Observação ,,0
+IMI,REP_12,Repouso,,vagner,0,Repouso,,0
+IMI,REP_12,Exploracao,3:03:00,vagner,183,Exploracao,,0
+IMI,REP_12,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+IMI,REP_12,Limpeza,0:07:00,vagner,7,Limpeza,0:07:00,7
+IMI,REP_12,Movimento_circular,1:49:00,vagner,109,Movimento_circular,,0
+IMI,REP_12,Observação ,,vagner,0,Observação ,,0
+DEL,REP_4,Repouso,,tef,0,Repouso,,0
+DEL,REP_4,Exploracao,,tef,0,Exploracao,,0
+DEL,REP_4,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+DEL,REP_4,Limpeza,,tef,0,Limpeza,00:42:00,42
+DEL,REP_4,Movimento_circular,,tef,0,Movimento_circular,,0
+CTR,REP_4,Repouso,,tef,0,Repouso,,0
+CTR,REP_4,Exploracao,,tef,0,Exploracao,,0
+CTR,REP_4,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+CTR,REP_4,Limpeza,,tef,0,Limpeza,00:04:00,4
+CTR,REP_4,Movimento_circular,,tef,0,Movimento_circular,,0
+CTR,REP_4,Observação,,tef,0,Observação,,0
+COM,REP_4,Repouso,0:21:00,tef,21,Repouso,,0
+COM,REP_4,Exploracao,2:55:00,tef,175,Exploracao,,0
+COM,REP_4,Tentativa_voo,,tef,0,Tentativa_voo,00:02:00,2
+COM,REP_4,Limpeza,0:34:00,tef,34,Limpeza,00:48:00,48
+COM,REP_4,Movimento_circular,3:40:00,tef,220,Movimento_circular,,0
+COM,REP_4,Observação,movimento meio inconsistente ,tef,#VALUE!,Observação,,0
+IMI,REP_4,Repouso,0:03:00,tef,3,Repouso,,0
+IMI,REP_4,Exploracao,4:45:00,tef,285,Exploracao,,0
+IMI,REP_4,Tentativa_voo,0:28:00,tef,28,Tentativa_voo,00:44:00,44
+IMI,REP_4,Limpeza,0:30:00,tef,30,Limpeza,02:20:00,140
+IMI,REP_4,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_4,Observação,Se limpando em movimento ,tef,#VALUE!,Observação,,0
+DEL,REP_11,Repouso,,vagner,0,Repouso,,0
+DEL,REP_11,Exploracao,0:09:00,vagner,9,Exploracao,,0
+DEL,REP_11,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+DEL,REP_11,Limpeza,0:05:00,vagner,5,Limpeza,0:05:00,5
+DEL,REP_11,Movimento_circular,4:11:00,vagner,251,Movimento_circular,,0
+DEL,REP_11,Observação ,,vagner,0,Observação ,,0
+CTR,REP_11,Repouso,,vagner,0,Repouso,,0
+CTR,REP_11,Exploracao,3:15:00,vagner,195,Exploracao,,0
+CTR,REP_11,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+CTR,REP_11,Limpeza,,vagner,0,Limpeza,00:00:00,0
+CTR,REP_11,Movimento_circular,,vagner,0,Movimento_circular,,0
+CTR,REP_11,Observação ,,vagner,0,Observação ,,0
+COM,REP_11,Repouso,0:59:00,vagner,59,Repouso,,0
+COM,REP_11,Exploracao,1:04:00,vagner,64,Exploracao,,0
+COM,REP_11,Tentativa_voo,1:54:00,vagner,114,Tentativa_voo,1:54:00,114
+COM,REP_11,Limpeza,0:01:00,vagner,1,Limpeza,0:01:00,1
+COM,REP_11,Movimento_circular,3:01:00,vagner,181,Movimento_circular,,0
+COM,REP_11,Observação ,,vagner,0,Observação ,,0
+IMI,REP_11,Repouso,2:56:00,vagner,176,Repouso,,0
+IMI,REP_11,Exploracao,0:24:00,vagner,24,Exploracao,,0
+IMI,REP_11,Tentativa_voo,,vagner,0,Tentativa_voo,00:00:00,0
+IMI,REP_11,Limpeza,2:59:00,vagner,179,Limpeza,2:59:00,179
+IMI,REP_11,Movimento_circular,,vagner,0,Movimento_circular,,0
+IMI,REP_11,Observação ,,vagner,0,Observação ,,0
+DEL,REP_5,Repouso,,tef,0,Repouso,,0
+DEL,REP_5,Exploracao,2:39:00,tef,159,Exploracao,,0
+DEL,REP_5,Tentativa_voo,0:02:00,tef,2,Tentativa_voo,00:03:00,3
+DEL,REP_5,Limpeza,,tef,0,Limpeza,00:19:00,19
+DEL,REP_5,Movimento_circular,2:17:00,tef,137,Movimento_circular,,0
+DEL,REP_5,Observação ,,tef,0,Observação ,,0
+CTR,REP_5,Repouso,,tef,0,Repouso,,0
+CTR,REP_5,Exploracao,2:07:00,tef,127,Exploracao,,0
+CTR,REP_5,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+CTR,REP_5,Limpeza,0:07:00,tef,7,Limpeza,00:12:00,12
+CTR,REP_5,Movimento_circular,1:27:00,tef,87,Movimento_circular,,0
+CTR,REP_5,Observação ,Limpeza em movimento,tef,#VALUE!,Observação ,,0
+COM,REP_5,Repouso,0:29:00,tef,29,Repouso,,0
+COM,REP_5,Exploracao,4:23:00,tef,263,Exploracao,,0
+COM,REP_5,Tentativa_voo,3:27:00,tef,207,Tentativa_voo,00:47:00,47
+COM,REP_5,Limpeza,0:40:00,tef,40,Limpeza,01:07:00,67
+COM,REP_5,Movimento_circular,,tef,0,Movimento_circular,,0
+COM,REP_5,Observação ,Limpeza em repouso e em movimento,tef,#VALUE!,Observação ,,0
+IMI,REP_5,Repouso,2:16:00,tef,136,Repouso,,0
+IMI,REP_5,Exploracao,2:21:00,tef,141,Exploracao,,0
+IMI,REP_5,Tentativa_voo,0:08:00,tef,8,Tentativa_voo,,0
+IMI,REP_5,Limpeza,2:16:00,tef,136,Limpeza,01:01:00,61
+IMI,REP_5,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_5,Observação ,Limpeza em movimento e dificuldade de locomover ,tef,#VALUE!,Observação ,,0
+DEL,REP_6,Repouso,,tef,0,Repouso,,0
+DEL,REP_6,Exploracao,1:34:00,tef,94,Exploracao,,0
+DEL,REP_6,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+DEL,REP_6,Limpeza,,tef,0,Limpeza,00:03:00,3
+DEL,REP_6,Movimento_circular,3:54:00,tef,234,Movimento_circular,,0
+DEL,REP_6,Observação ,,tef,0,Observação ,,0
+CTR,REP_6,Repouso,,tef,0,Repouso,,0
+CTR,REP_6,Exploracao,1:36:00,tef,96,Exploracao,,0
+CTR,REP_6,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+CTR,REP_6,Limpeza,0:03:00,tef,3,Limpeza,0:03:00,3
+CTR,REP_6,Movimento_circular,3:46:00,tef,226,Movimento_circular,,0
+CTR,REP_6,Observação ,,tef,0,Observação ,,0
+COM,REP_6,Repouso,0:11:00,tef,11,Repouso,,0
+COM,REP_6,Exploracao,4:46:00,tef,286,Exploracao,,0
+COM,REP_6,Tentativa_voo,0:35:00,tef,35,Tentativa_voo,00:00:00,0
+COM,REP_6,Limpeza,0:11:00,tef,11,Limpeza,00:25:00,25
+COM,REP_6,Movimento_circular,,tef,0,Movimento_circular,,0
+COM,REP_6,Observação ,Andar estranho meio tremido e limpeza andando,tef,#VALUE!,Observação ,,0
+IMI,REP_6,Repouso,,tef,0,Repouso,,0
+IMI,REP_6,Exploracao,4:58:00,tef,298,Exploracao,,0
+IMI,REP_6,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+IMI,REP_6,Limpeza,1:03:00,tef,63,Limpeza,00:08:00,8
+IMI,REP_6,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_6,Observação ,Limpeza em movimento nas antenas ,tef,#VALUE!,Observação ,,0
+DEL,REP_7,Repouso,,tef,0,Repouso,,0
+DEL,REP_7,Exploracao,4:40:00,tef,280,Exploracao,,0
+DEL,REP_7,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+DEL,REP_7,Limpeza,0:06:00,tef,6,Limpeza,00:22:00,22
+DEL,REP_7,Movimento_circular,0:16:00,tef,16,Movimento_circular,,0
+DEL,REP_7,Observação ,Limpeza leve se movimentando,tef,#VALUE!,Observação ,,0
+CTR,REP_7,Repouso,,tef,0,Repouso,,0
+CTR,REP_7,Exploracao,3:19:00,tef,199,Exploracao,,0
+CTR,REP_7,Tentativa_voo,0:35:00,tef,35,Tentativa_voo,00:17:00,17
+CTR,REP_7,Limpeza,,tef,0,Limpeza,00:03:00,3
+CTR,REP_7,Movimento_circular,2:06:00,tef,126,Movimento_circular,,0
+CTR,REP_7,Observação ,,tef,0,Observação ,,0
+COM,REP_7,Repouso,2:33:00,tef,153,Repouso,,0
+COM,REP_7,Exploracao,2:09:00,tef,129,Exploracao,,0
+COM,REP_7,Tentativa_voo,3:33:00,tef,213,Tentativa_voo,02:55:00,175
+COM,REP_7,Limpeza,0:51:00,tef,51,Limpeza,00:55:00,55
+COM,REP_7,Movimento_circular,,tef,0,Movimento_circular,,0
+COM,REP_7,Observação ,,tef,0,Observação ,,0
+IMI,REP_7,Repouso,1:21:00,tef,81,Repouso,,0
+IMI,REP_7,Exploracao,3:02:00,tef,182,Exploracao,,0
+IMI,REP_7,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+IMI,REP_7,Limpeza,1:51:00,tef,111,Limpeza,02:03:00,123
+IMI,REP_7,Movimento_circular,0:43:00,tef,43,Movimento_circular,,0
+IMI,REP_7,Observação ,Limpeza andando,tef,#VALUE!,Observação ,,0
+DEL,REP_8,Repouso,,tef,0,Repouso,,0
+DEL,REP_8,Exploracao,0:55:00,tef,55,Exploracao,,0
+DEL,REP_8,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+DEL,REP_8,Limpeza,,tef,0,Limpeza,00:04:50,4
+DEL,REP_8,Movimento_circular,4:02:00,tef,242,Movimento_circular,,0
+DEL,REP_8,Observação ,,tef,0,Observação ,,0
+CTR,REP_8,Repouso,3:58:00,tef,238,Repouso,,0
+CTR,REP_8,Exploracao,0:43:00,tef,43,Exploracao,,0
+CTR,REP_8,Tentativa_voo,1:30:00,tef,90,Tentativa_voo,,159
+CTR,REP_8,Limpeza,3:01:00,tef,181,Limpeza,00:43:50,43
+CTR,REP_8,Movimento_circular,0:01:00,tef,1,Movimento_circular,,0
+CTR,REP_8,Observação ,,tef,0,Observação ,,0
+COM,REP_8,Repouso,0:26:00,tef,26,Repouso,,0
+COM,REP_8,Exploracao,2:53:00,tef,173,Exploracao,,0
+COM,REP_8,Tentativa_voo,,tef,0,Tentativa_voo,00:01:50,1
+COM,REP_8,Limpeza,0:40:00,tef,40,Limpeza,,121.5
+COM,REP_8,Movimento_circular,1:31:00,tef,91,Movimento_circular,,0
+COM,REP_8,Observação ,,tef,0,Observação ,,0
+IMI,REP_8,Repouso,0:40:00,tef,40,Repouso,,0
+IMI,REP_8,Exploracao,4:10:00,tef,250,Exploracao,,0
+IMI,REP_8,Tentativa_voo,0:40:00,tef,40,Tentativa_voo,,67.5
+IMI,REP_8,Limpeza,1:38:00,tef,98,Limpeza,,108
+IMI,REP_8,Movimento_circular,,tef,0,Movimento_circular,,0
+IMI,REP_8,Observação ,Limpeza em movimento,tef,#VALUE!,Observação ,,0
+DEL,REP_9,Repouso,,tef,0,Repouso,,0
+DEL,REP_9,Exploracao,0:39:00,tef,39,Exploracao,,0
+DEL,REP_9,Tentativa_voo,4:01:00,tef,241,Tentativa_voo,,43.5
+DEL,REP_9,Limpeza,,tef,0,Limpeza,,15.5
+DEL,REP_9,Movimento_circular,4:22:00,tef,262,Movimento_circular,,0
+DEL,REP_9,Observação ,,tef,0,Observação ,,0
+CTR,REP_9,Repouso,0:18:00,tef,18,Repouso,,0
+CTR,REP_9,Exploracao,1:18:00,tef,78,Exploracao,,0
+CTR,REP_9,Tentativa_voo,0:22:00,tef,22,Tentativa_voo,,49.5
+CTR,REP_9,Limpeza,,tef,0,Limpeza,,18
+CTR,REP_9,Movimento_circular,3:13:00,tef,193,Movimento_circular,,0
+CTR,REP_9,Observação ,,tef,0,Observação ,,0
+COM,REP_9,Repouso,,tef,0,Repouso,,0
+COM,REP_9,Exploracao,0:34:00,tef,34,Exploracao,,0
+COM,REP_9,Tentativa_voo,0:45:00,tef,45,Tentativa_voo,,00:00:00
+COM,REP_9,Limpeza,0:12:00,tef,12,Limpeza,,34.5
+COM,REP_9,Movimento_circular,4:19:00,tef,259,Movimento_circular,,0
+COM,REP_9,Observação ,,tef,0,Observação ,,0
+IMI,REP_9,Repouso,0:49:00,tef,49,Repouso,,0
+IMI,REP_9,Exploracao,2:51:00,tef,171,Exploracao,,0
+IMI,REP_9,Tentativa_voo,0:06:00,tef,6,Tentativa_voo,,12.5
+IMI,REP_9,Limpeza,0:53:00,tef,53,Limpeza,,90
+IMI,REP_9,Movimento_circular,1:39:00,tef,99,Movimento_circular,,0
+IMI,REP_9,Observação ,Maioria da limpeza parada mas tem momento de limpeza se movendo,tef,#VALUE!,Observação ,,0
+DEL,REP_10,Repouso,0:02:00,tef,2,Repouso,,0
+DEL,REP_10,Exploracao,5:00:00,tef,300,Exploracao,,0
+DEL,REP_10,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+DEL,REP_10,Limpeza,,tef,0,Limpeza,,4.5
+DEL,REP_10,Movimento_circular,,tef,0,Movimento_circular,,0
+DEL,REP_10,Observação ,Rodou algumas vezes em torno de si ,tef,#VALUE!,Observação ,,0
+CTR,REP_10,Repouso,,tef,0,Repouso,,0
+CTR,REP_10,Exploracao,0:42:00,tef,42,Exploracao,,0
+CTR,REP_10,Tentativa_voo,,tef,0,Tentativa_voo,00:00:00,0
+CTR,REP_10,Limpeza,,tef,0,Limpeza,,6
+CTR,REP_10,Movimento_circular,4:20:00,tef,260,Movimento_circular,,0
+CTR,REP_10,Observação ,,tef,0,Observação ,,0
+COM,REP_10,Repouso,0:13:00,tef,13,Repouso,,0
+COM,REP_10,Exploracao,4:33:00,tef,273,Exploracao,,0
+COM,REP_10,Tentativa_voo,0:37:00,tef,37,Tentativa_voo,,53
+COM,REP_10,Limpeza,0:14:00,tef,14,Limpeza,,17
+COM,REP_10,Movimento_circular,0:15:00,tef,15,Movimento_circular,,0
+COM,REP_10,Observação ,,tef,0,Observação ,,0
+IMI,REP_10,Repouso,,tef,0,Repouso,,0
+IMI,REP_10,Exploracao,1:17:00,tef,77,Exploracao,,0
+IMI,REP_10,Tentativa_voo,0:17:00,tef,17,Tentativa_voo,,00:00:00
+IMI,REP_10,Limpeza,,tef,0,Limpeza,,22.5
+IMI,REP_10,Movimento_circular,4:05:00,tef,245,Movimento_circular,,0
+IMI,REP_10,Observação ,,tef,0,Observação ,,0
